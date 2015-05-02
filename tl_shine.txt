@@ -14,12 +14,12 @@ BASICS
 {KEYS}
 tg
 {VALUE}
-Telegram
+Telegram 
 
 {KEYS}
 wa
 {VALUE}
-WhatsApp
+WhatsApp 
 
 {COMMENT}
 Hello or anything irrelevant in the beginning
