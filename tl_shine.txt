@@ -1,3 +1,6 @@
+{URL}
+https://raw.githubusercontent.com/shinenelson/TSupport/master/tl_shine.txt
+
 {COMMENT}
 ===================================
 shine's Custom TSupport Template File
