@@ -1,5 +1,5 @@
 {URL}
-https://github.com/shinenelson/TSupport/tl_shine.txt
+https://raw.githubusercontent.com/shinenelson/TSupport/master/tl_shine.txt
 
 {COMMENT}
 ===================================
@@ -43,6 +43,20 @@ gladhelp
 We're glad that we could be of help and you're happy with the solution. Is there something else with Telegram that we could help you out with?
 
 Feel free to come back here if you need help with something else in the future. Enjoy messaging your loved ones with Telegram Messenger. 😊
+
+{COMMENT}
+Responding to a conversation after a really long time.
+{KEYS}
+late
+{VALUE}
+Hello, we're sorry for making such a huge delay in responding to you. We know its been a really long time since you asked this query. But we would like to let you know that we're here for you.
+
+We recieve loads of issues / queries / feedback / messages regarding Telegram. Though we endeavour to respond to all these queries. Its difficult to track every issue. We have a very limited set of volunteers. We might often miss out on a few occassions. We sincerely apologize for the inconvenience we have caused to you.
+
+Do you still have an issue with Telegram that you would like us to help you out with?
+
+Find out more cool features of Telegram from our FAQ : https://telegram.org/faq
+
 
 {COMMENT}
 Blah... blah... blah...
