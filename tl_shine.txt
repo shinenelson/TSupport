@@ -135,7 +135,7 @@ A new update has been released
 {KEYS}
 upd
 {VALUE}
-Hey, did you know that Telegram rolled-out some new updates to Telegram recently with more new cool feature to amaze you?
+Hey, did you know that Telegram rolled-out some new updates to Telegram recently with more new cool features to amaze you?
 
 
 
