@@ -1,0 +1,327 @@
+{URL}
+https://github.com/shinenelson/TSupport/tl_shine.txt
+
+{COMMENT}
+===================================
+shine's Custom TSupport Template File
+===================================
+
+{COMMENT}
+======
+BASICS
+======
+
+{KEYS}
+tg
+{VALUE}
+Telegram
+
+{KEYS}
+wa
+{VALUE}
+WhatsApp
+
+{COMMENT}
+Hello or anything irrelevant in the beginning
+{KEYS}
+hi
+{VALUE}
+Hello, how can we help you with Telegram?
+
+{COMMENT}
+I love Telegram. Its so cool.
+{KEYS}
+happy
+{VALUE}
+We're happy that you love the app. We do too. Enjoy messaging your loved ones with Telegram Messenger. 😊
+
+{COMMENT}
+Thank you so much for helping me
+{KEYS}
+gladhelp
+{VALUE}
+We're glad that we could be of help and you're happy with the solution. Is there something else with Telegram that we could help you out with?
+
+Feel free to come back here if you need help with something else in the future. Enjoy messaging your loved ones with Telegram Messenger. 😊
+
+{COMMENT}
+Blah... blah... blah...
+{KEYS}
+resolved
+{VALUE}
+We understand that you do not have an *issue* that we can help you with. So, until you have a genuine issue with Telegram, we're marking this conversation as resolved.
+
+{QUESTION}
+Why isn't Telegram popular?
+{KEYS}
+notpopular
+{VALUE}
+Though Telegram being clearly more advanced than any other popular messenger apps in the market. The general public fail to realize the true potential of Telegram and continue to be satisfied with whatever they have.
+
+What you can do to change that is to invite your friends, family and loved ones to Telegram.
+
+
+{COMMENT}
+Something that you can't understand
+{KEYS}
+explain
+{VALUE}
+Can you explain your problem better so that we could help you out?
+
+{COMMENT}
+I want to do somthing that does not exist on Telegram yet
+{KEYS}
+nosupport
+{VALUE}
+We're sorry. Telegram does not support that feature as of yet. But hey, if there is a widespread demand for the feature, we might actually implement it.
+
+{COMMENT}
+I want something that you can't give me.
+{KEYS}
+noinfo
+{VALUE}
+We're sorry, we don't give out that kind of information.
+
+{COMMENT}
+Irrelevant pestering conversations
+{KEYS}
+pest
+{VALUE}
+Thank you for constantly replying. However, since your messages are more of a conversation that an enquiry regarding a Telegram feature, we are going to ignore you until you have a genuine query about a feature of Telegram. Until then, you will be ignored. Sorry.
+
+Please note that this chat is used for support and enquiries about Telegram only. Our volunteers read and view everything you post here. If you do not have a question at this moment, we shall mark this conversation as closed.
+
+Here's an idea, in case you need a place to keep your data:
+
+Create a group with another person and then remove them from the group. Now you have a group to yourself — you can send anything there, e.g., memos, forwarded messages, pictures or videos. Since it is synced across all your devices, you can then access this data on your devices.
+
+{COMMENT}
+Be like WhatsApp
+{KEYS}
+sepdiff
+{VALUE}
+Telegram is a separate, different, unique and advanced entity that is way ahead of WhatsApp or any other instant messaging service in the market today. And what made us who weare today is because we innovated. We refused to copy features. And we kept our vision and roadmap streamlined to providing users a smooth service than a bloated app. We're concerned about our users privacy and keep that as our top priority above anything else. So, asking us to be like xx app is like us to give you something that you already can get elsewhere on your own. Please understand the merits of our service and comparing with the other services that you expect us to be like. Then decide what you want to say about it.
+
+{COMMENT}
+==========
+UPDATES
+==========
+
+{COMMENT}
+Using an unofficial flavour of Telegram
+{KEYS}
+unof
+{VALUE}
+We've noticed that you are not using an official flavour of Telegram. While you're completely free to choose, we recommend you use the official builds of Telegram. We cannot help you out if you're using unofficial builds of Telegram.
+
+
+
+{COMMENT}
+A new update has been released
+{KEYS}
+upd
+{VALUE}
+Hey, did you know that Telegram rolled-out some new updates to Telegram recently with more new cool feature to amaze you?
+
+
+
+{COMMENT}
+Download link to Latest iOS app
+{KEYS}
+li
+{VALUE}
+You can find the latest Telegram for iOS here : https://telegram.org/dl/ios
+
+{COMMENT}
+Download link to Latest Andoid app
+{KEYS}
+la
+{VALUE}
+You can find the latest Telegram for Android here : https://telegram.org/dl/android
+
+{COMMENT}
+Download link to Latest Windows Phone app
+{KEYS}
+lwp
+{VALUE}
+You can find the latest Telegram for Windows Phone here : https://telegram.org/dl/wp
+
+{COMMENT}
+======
+INDIAN
+======
+
+{QUESTION}
+Is Telegram an Indian company?
+{KEYS}
+indian
+{VALUE}
+Telegram does not belong to any country in particular. It is a global non-commercial project with contributors from all over the world.
+
+Telegram's goal is to allow everyone to get back their right to privacy. We've built a free non-commercial service to achieve this. The project is distributed — Telegram servers, companies, developers, people and its users are spread around and across the world.
+
+If you joined Telegram because of a particular forward message, we tell you that it is totally un-true. Telegram is not an Indian company. It belongs to the world and to people everywhere. I'd say Telegram is as much Indian as Linux, Firefox and Wikipedia are.
+
+{QUESTION}
+Why is Telegram not available in Indian languages?
+{KEYS}
+indiclang
+{VALUE}
+Telegram hasn't been translated to Indian languages yet. We are adding more languages as the demand rises.
+
+If you joined Telegram because of a particular forward message that told you that Telegram was an Indian company, we tell you that it is totally un-true. Telegram is not an Indian company. We try to keep it as decentralized and spread across as many different jurisdictions as possible. So, Telegram does not necessarily have to heed to Indic languages by default. But if the need / demand arises, we'll sure support the specified language.
+
+If you are a professional translator, linguist or language geek, you could help Telegram with a translation. To learn more about this, check out the FAQ : https://telegram.org/faq
+
+{QUESTION}
+Why doesn't the emoji set have the Indian flag?
+{KEYS}
+flag
+{VALUE}
+We're currently using similar emojis on all platforms, these are based on the Apple Emojis, which indeed do not include the Indian flag. So, we're sorry that we cannot provide this feature at the moment.
+
+If you joined Telegram because of a particular forward message that told you that Telegram was an Indian company, we tell you that it is totally un-true. Telegram is not an Indian company. We try to keep it as decentralized and spread across as many different jurisdictions as possible.
+
+{COMMENT}
+==========
+FEATURES
+==========
+
+{QUESTION}
+Why are files attaching very slow?
+{KEYS}
+filesend
+slowconn
+{VALUE}
+That probably must be because you have a slow internet connection. Can you try to reproduce the issue with a high-speed internet connection (like a WiFi connection)?
+
+{QUESTION}
+Can I send a .xxx file on Telegram?
+{KEYS}
+format
+{VALUE}
+Yes you can. You can send any kind of file on Telegram.
+
+But certain file formats (like .webp, for example) are used by Telegram to be displayed inline. So, you won't be able to download these formats. In order to download such files, you should either rename the file extension or compress to a zip archive and send it over so that it can be downloaded by the recipient.
+
+{QUESTION}
+Are there any restriction on the file formats that I can send on Telegram?
+{KEYS}
+formatrestrict
+{VALUE}
+Generally no. You can send any kind of file on Telegram.
+
+But certain file formats (like .webp) are used by Telegram to be displayed inline. So, you won't be able to download these formats. In order to download such files, you should either rename the file extension or compress to a zip archive and send it over so that it can be downloaded by the recipient.
+
+{QUESTION}
+What is the maximum file size that I can send on Telegram?
+{KEYS}
+size
+{VALUE}
+You could send files upto 1.5GB as a single file on Telegram.
+
+{QUESTION}
+I want themes.
+{KEYS}
+themes
+{VALUE}
+We do not support themes on Telegram at the moment. However you can change the background of your chat view by navigating to Settings -> Change Background.
+
+{QUESTION}
+I want more colorful stickers.
+{KEYS}
+clippy
+{VALUE}
+Did you know that you could create your own stickers out of normal images on Telegram?
+
+Just upload mono-background (images with a single color as background) images to @clippy and it'll create and return a sticker for you.
+
+Have fun with @clippy.
+
+{COMMENT}
+group admin related
+{KEYS}
+admin
+{VALUE}
+Telegram groups do not have admins. However, the person who starts the group has the privilege of 'kicking' all members of the group, whereas other members of the group can 'kick' members that they have added to the group.
+
+All other features (modifying the group name / picture) is common to all members of the group.
+
+{QUESTION}
+Why can't I re-add a user to a group?
+{KEYS}
+reinvite
+reinv
+{VALUE}
+If a person left your group chat and you want to re-invite them back, you both will need to add each other as contacts (shared phone numbers) to re-invite.
+
+This was changed because some groups were misusing the invite feature by automatically re-inviting the people that wanted to leave. This prevented people from being able to leave these groups.
+
+{QUESTION}
+Can I do Voice / Video Calls on Telegram?
+{KEYS}
+voicecall
+videocall
+{VALUE}
+No. Telegram does not support voice / video calls as of yet. But you can send recorded voice messages to your friends.
+
+We cannot predict if this would land as a feature of Telegram in the future. Telegram has a more streamlined vision to provide a free, privacy-oriented platform for communicating with loved ones. We do not wish to bloat this vision with unnecessary features at the moment.
+
+{QUESTION}
+I want to hide my profile picture from strangers.
+{KEYS}
+hideprofilepic
+{VALUE}
+Unfortunately, Telegram does not support hiding your profile picture from strangers at the moment. But don't worry, there are 2 ways to approach this problem.
+
+1. You could block a select few users that you don't want to reveal your profile picture to.
+2. You could refrain from using a username. Using a username would make your profile publicly searchable which can be used by strangers to message you. If you do not use a username, only people who have your number or those who are in a group you are in will be able to contact you.
+
+{QUESTION}
+How do I deactivate my account?
+{KEYS}
+deact
+{VALUE}
+You can deactivate your Telegram account by navigating to the following link : https://telegram.org/deactivate
+Note that a confirmation code will be sent to you via Telegram (not in an SMS). We recommend using a non-mobile browser for this process.
+
+We're sorry to see you leave. Please do leave us some feedback, if you'd like.
+By the way, may we ask why you are leaving? Missing a feature? Any other troubles?
+
+{QUESTION}
+What is this 2-step verification?
+{KEYS}
+2sv
+{VALUE}
+You can setup 2-step verification on Telegram. This enables you to double protect your account apart from the verification code that is sent to your number.
+
+This is a normal password that you can setup as you do for other services.
+
+Settings -> Privacy & Security -> Two-step Verification -> Enter your desired password and a hint.
+
+For better safety and security. Its best if you provide a recovery email too. Telegram will use this email only in the event when you've lost / forgotten your 2-step verification password.
+
+{QUESTION}
+When will you bring so and so feature?
+{KEYS}
+predict
+{VALUE}
+Telegram evolves quickly and new features are added every month. We can't promise anything or give an exact timeframe, but suggestions are always welcome.
+We cannot predict or guarantee anything at the moment. Our developers are working hard to bring you the best possible feature set and experience on Telegram. Please be patient and you'll be seeing a lot of updates in the future.
+
+{QUESTION}
+Why isn't Telegram available on Symbian / J2ME devices?
+{KEYS}
+symb
+java
+{VALUE}
+Telegram is not available for Symbian / J2ME devices. The security features of Telegram relies on certain capabilities provided by the phone's platform which are lacking in such systems. We are not ready to compromise on security in order to support a small share of potential users.
+
+We're a small focused team developing tools for modern day platforms. We have an open API for those who would like to bring Telegram to the phones of yesterday — but there are some challenges present.
+
+Namely, these older devices are much less powerful and so cannot handle encryption very well (especially if you want your messages to be sent quickly). WhatsApp bypasses this issue by pretty much discarding encryption for their users on older devices, but such would be against our philosophy.
+
+So we cater to more modern devices that are able to couple security with speed. In a few years time everyone will have at least an old Android device and the problem will be phased out altogether with the ancient devices.
+
+{COMMENT}
+====================================================================================================
