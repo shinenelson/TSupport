@@ -63,7 +63,7 @@ Blah... blah... blah...
 {KEYS}
 resolved
 {VALUE}
-We understand that you do not have an *issue* that we can help you with. So, until you have a genuine issue with Telegram, we're marking this conversation as resolved.
+We understand that you do not have an *issue* that we can help you with. So, until you have a genuine issue with Telegram, we're marking this conversation as RESOLVED.
 
 {QUESTION}
 Why isn't Telegram popular?
