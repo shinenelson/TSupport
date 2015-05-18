@@ -83,7 +83,7 @@ Something that you can't understand
 {KEYS}
 explain
 {VALUE}
-Can you explain your problem better so that we could help you out?
+Can you explain your problem in better details so that we could help you out?
 
 {QUESTION}
 I want to do somthing that does not exist on Telegram yet
