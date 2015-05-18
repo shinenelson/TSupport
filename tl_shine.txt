@@ -55,7 +55,10 @@ We recieve loads of issues / queries / feedback / messages regarding Telegram. T
 
 Do you still have an issue with Telegram that you would like us to help you out with?
 
-Find out more cool features of Telegram from our FAQ : https://telegram.org/faq
+Find out more cool features of Telegram from our : 
+* FAQ : https://telegram.org/faq
+* Blog : https://telegram.org/blog
+* Twitter : https://twitter.com/telegram
 
 
 {QUESTION}
