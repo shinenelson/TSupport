@@ -253,7 +253,7 @@ Just upload mono-background (images with a single color as background) images to
 Have fun with @clippy.
 
 {QUESTION}
-group admin related
+How to identify the "admin" of a group?
 {KEYS}
 admin
 {VALUE}
