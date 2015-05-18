@@ -21,21 +21,21 @@ wa
 {VALUE}
 WhatsApp 
 
-{COMMENT}
+{QUESTION}
 Hello or anything irrelevant in the beginning
 {KEYS}
 hi
 {VALUE}
 Hello, how can we help you with Telegram?
 
-{COMMENT}
+{QUESTION}
 I love Telegram. Its so cool.
 {KEYS}
 happy
 {VALUE}
 We're happy that you love the app. We do too. Enjoy messaging your loved ones with Telegram Messenger. 😊
 
-{COMMENT}
+{QUESTION}
 Thank you so much for helping me
 {KEYS}
 gladhelp
@@ -44,7 +44,7 @@ We're glad that we could be of help and you're happy with the solution. Is there
 
 Feel free to come back here if you need help with something else in the future. Enjoy messaging your loved ones with Telegram Messenger. 😊
 
-{COMMENT}
+{QUESTION}
 Responding to a conversation after a really long time.
 {KEYS}
 late
@@ -58,7 +58,7 @@ Do you still have an issue with Telegram that you would like us to help you out 
 Find out more cool features of Telegram from our FAQ : https://telegram.org/faq
 
 
-{COMMENT}
+{QUESTION}
 Blah... blah... blah...
 {KEYS}
 resolved
@@ -75,28 +75,28 @@ Though Telegram being clearly more advanced than any other popular messenger app
 What you can do to change that is to invite your friends, family and loved ones to Telegram.
 
 
-{COMMENT}
+{QUESTION}
 Something that you can't understand
 {KEYS}
 explain
 {VALUE}
 Can you explain your problem better so that we could help you out?
 
-{COMMENT}
+{QUESTION}
 I want to do somthing that does not exist on Telegram yet
 {KEYS}
 nosupport
 {VALUE}
 We're sorry. Telegram does not support that feature as of yet. But hey, if there is a widespread demand for the feature, we might actually implement it.
 
-{COMMENT}
+{QUESTION}
 I want something that you can't give me.
 {KEYS}
 noinfo
 {VALUE}
 We're sorry, we don't give out that kind of information.
 
-{COMMENT}
+{QUESTION}
 Irrelevant pestering conversations
 {KEYS}
 pest
@@ -109,7 +109,7 @@ Here's an idea, in case you need a place to keep your data:
 
 Create a group with another person and then remove them from the group. Now you have a group to yourself — you can send anything there, e.g., memos, forwarded messages, pictures or videos. Since it is synced across all your devices, you can then access this data on your devices.
 
-{COMMENT}
+{QUESTION}
 Be like WhatsApp
 {KEYS}
 sepdiff
@@ -121,7 +121,7 @@ Telegram is a separate, different, unique and advanced entity that is way ahead 
 UPDATES
 ==========
 
-{COMMENT}
+{QUESTION}
 Using an unofficial flavour of Telegram
 {KEYS}
 unof
@@ -130,7 +130,7 @@ We've noticed that you are not using an official flavour of Telegram. While you'
 
 
 
-{COMMENT}
+{QUESTION}
 A new update has been released
 {KEYS}
 upd
@@ -139,21 +139,21 @@ Hey, did you know that Telegram rolled-out some new updates to Telegram recently
 
 
 
-{COMMENT}
+{QUESTION}
 Download link to Latest iOS app
 {KEYS}
 li
 {VALUE}
 You can find the latest Telegram for iOS here : https://telegram.org/dl/ios
 
-{COMMENT}
+{QUESTION}
 Download link to Latest Andoid app
 {KEYS}
 la
 {VALUE}
 You can find the latest Telegram for Android here : https://telegram.org/dl/android
 
-{COMMENT}
+{QUESTION}
 Download link to Latest Windows Phone app
 {KEYS}
 lwp
@@ -252,7 +252,7 @@ Just upload mono-background (images with a single color as background) images to
 
 Have fun with @clippy.
 
-{COMMENT}
+{QUESTION}
 group admin related
 {KEYS}
 admin
