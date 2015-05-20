@@ -285,7 +285,7 @@ No. Telegram does not support voice / video calls as of yet. But you can send re
 We cannot predict if this would land as a feature of Telegram in the future. Telegram has a more streamlined vision to provide a free, privacy-oriented platform for communicating with loved ones. We do not wish to bloat this vision with unnecessary features at the moment.
 
 {QUESTION}
-I want to hide my profile picture from strangers.
+How can I hide my profile picture from strangers?
 {KEYS}
 hideprofilepic
 {VALUE}
