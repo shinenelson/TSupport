@@ -290,7 +290,7 @@ How can I hide my contact number?
 hidecontact
 {VALUE}
 Your contact number is shared with the following : 
-- Contacts on your phone.
+- People in your contacts — if you send them a message.
 - People who have your number (obviously).
 - People with whom you have explicitly shared your contact info.
 
