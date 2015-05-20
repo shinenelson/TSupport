@@ -291,8 +291,8 @@ hidecontact
 {VALUE}
 Your contact number is shared with the following : 
 - Contacts on your phone.
-- People that have your number (obviously).
-- People with whom you have explicitly shared your contact with.
+- People who have your number (obviously).
+- People with whom you have explicitly shared your contact info.
 
 No one else other than these first-hand people can view your contact number. They might see your profile picture and your last seen (according to your settings), but not your contact number.
 
