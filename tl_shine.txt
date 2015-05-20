@@ -289,7 +289,12 @@ How can I hide my contact number?
 {KEYS}
 hidecontact
 {VALUE}
-Your contact information is shared with the contacts on your phone. It is obvious that those who have you on their contact list can see your contact information. But other than these first-hand people, no one else can view your contact information. They might see your profile picture and your last seen (according to your settings), but not your contact number.
+Your contact number is shared with the following : 
+- Contacts on your phone.
+- People that have your number (obviously).
+- People with whom you have explicitly shared your contact with.
+
+No one else other than these first-hand people can view your contact number. They might see your profile picture and your last seen (according to your settings), but not your contact number.
 
 {QUESTION}
 How can I hide my profile picture from strangers?
