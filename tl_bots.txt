@@ -1,0 +1,90 @@
+{URL}
+https://raw.githubusercontent.com/shinenelson/TSupport/master/tl_bots.txt
+
+{COMMENT}
+==========
+GENERAL
+==========
+
+{QUESTION}
+Long wait
+{COMMENT}
+Anything longer than 3-4 hours is a long wait.
+{KEYS}
+lw
+{VALUE}
+Hello. Sorry for the long wait.
+
+{QUESTION}
+Newbie
+{KEYS}
+new
+{VALUE}
+Sorry, the bot platform is a feature for devlopers, not end users. There no out-of-the-box way to create a bot — you'll need at least some skills at computer programming to build one.
+
+But you can always check out @storebot to see what others are making. (this bot itself was not created by us)
+
+{QUESTION}
+Examples
+{KEYS}
+ex
+{VALUE}
+Here are a few open source examples we have on the web. Maybe they will help:
+
+Java
+https://github.com/rubenlagus/TelegramBots
+Sending a message with replyKeyboard:
+https://gist.github.com/rubenlagus/bc36b532d975bbe5070e
+
+Python
+https://github.com/datamachine/twx/tree/master/twx/botapi
+Documentation with Python examples:
+https://pythonhosted.org/twx/twx/botapi/botapi.html
+
+Ruby
+https://github.com/eljojo/telegram_bot
+
+We're working on a new Bot FAQ with examples. Stay Tuned. Coming soon.
+
+{QUESTION}
+Where do I find all the bots?
+{KEYS}
+storebot
+{VALUE}
+We'll see how the platform grows. As soon as there are enough interesting bots, we'll definitely find a way to showcase them to you.
+
+For now, you can use solutions from third-party developers, like @storebot for example.
+
+{QUESTION}
+Suggestions
+{COMMENT}
+Use this template at the beginning, then add a few lines about the actual suggestion the user made.
+{KEYS}
+fd
+{VALUE}
+Thanks for the feedback!
+
+The bot API is still in its infancy right now. There are many potential features to consider and implement. We'll be studying what people do with their bots for a while to see which directions will be most important for the platform.
+
+{COMMENT}
+==========
+TECHNICAL
+==========
+
+{QUESTION}
+Webhooks don't work
+{KEYS}
+wh
+{VALUE}
+You'll need a valid certificate for webhooks to work. Please note that we currently do not support self-signed certificates.
+
+At the moment, we support ports 88, 443, 8443 and 80 for webhooks.
+
+{QUESTION}
+Download files
+{KEYS}
+dl
+{VALUE}
+Sorry, bots cannot download files (or media) yet. The only thing they can do for now is send them on to users (by file_id).
+
+We're still working on the API and many more options will become available in the future.
