@@ -41,6 +41,9 @@ https://github.com/datamachine/twx/tree/master/twx/botapi
 Documentation with Python examples:
 https://pythonhosted.org/twx/twx/botapi/botapi.html
 
+PHP
+https://github.com/irazasyed/telegram-bot-sdk
+
 Ruby
 https://github.com/eljojo/telegram_bot
 
