@@ -18,7 +18,7 @@ Hello. Sorry for the long wait.
 {QUESTION}
 Newbie
 {KEYS}
-new
+noob
 {VALUE}
 Sorry, the bot platform is a feature for devlopers, not end users. There no out-of-the-box way to create a bot — you'll need at least some skills at computer programming to build one.
 
