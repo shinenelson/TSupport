@@ -84,6 +84,13 @@ You'll need a valid certificate for webhooks to work. Please note that we curren
 At the moment, we support ports 88, 443, 8443 and 80 for webhooks.
 
 {QUESTION}
+Webhooks authentication
+{KEYS}
+wha
+{VALUE}
+If you'd like to make sure that the Webhook request comes from Telegram, we recommend using a secret path in the URL, e.g. www.example.com/your_token. Since nobody else knows your bot‘s token, you can be pretty sure it’s us.
+
+{QUESTION}
 Download files
 {KEYS}
 dl
@@ -91,10 +98,3 @@ dl
 Sorry, bots cannot download files (or media) yet. The only thing they can do for now is send them on to users (by file_id).
 
 We're still working on the API and many more options will become available in the future.
-
-{QUESTION}
-Webhooks authentication
-{KEYS}
-wha
-{VALUE}
-If you'd like to make sure that the Webhook request comes from Telegram, we recommend using a secret path in the URL, e.g. www.example.com/your_token. Since nobody else knows your bot‘s token, you can be pretty sure it’s us.
