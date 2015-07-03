@@ -20,7 +20,7 @@ Newbie
 {KEYS}
 noob
 {VALUE}
-Sorry, the bot platform is a feature for devlopers, not end users. There no out-of-the-box way to create a bot - you'll need at least some skills at computer programming to build one.
+Sorry, the bot platform is a feature for devlopers, not end users. There is no out-of-the-box way to create a bot - you'll need at least some skills at computer programming to build one.
 
 But you can always check out @storebot to see what others are making. (this bot itself was not created by us)
 
