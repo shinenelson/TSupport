@@ -37,7 +37,7 @@ Sending a message with replyKeyboard:
 https://gist.github.com/rubenlagus/bc36b532d975bbe5070e
 
 Python
-https://github.com/datamachine/twx/tree/master/twx/botapi
+https://github.com/datamachine/twx.botapi
 Documentation with Python examples:
 https://pythonhosted.org/twx/twx/botapi/botapi.html
 
