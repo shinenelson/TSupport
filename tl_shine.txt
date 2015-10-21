@@ -62,11 +62,18 @@ Find out more cool features of Telegram from our :
 
 
 {QUESTION}
-Blah... blah... blah...
+I'm blocked from sending messages to non-contacts (people contacted via usernames)
 {KEYS}
-resolved
+spam
 {VALUE}
-We understand that you do not have an *issue* that we can help you with. So, until you have a genuine issue with Telegram, we're marking this conversation as RESOLVED.
+If you message people by their username, especially strangers, they might dislike that and report you for spam. An account marked as spam will be restricted from messaging others - you will only be able to message mutual contacts (friends which you have both saved each other's phone numbers). 
+
+If your account was marked as spam, we can forward your request to remove that spam status for now. However, the team may only remove that status once. If you get reported for spam again, the team may not be able to remove your spam status again. 
+
+To request removal of spam status, the team will need to know :
+
+1) The phone number for your Telegram account
+2) What you were doing and why you might have been marked as spam
 
 {QUESTION}
 Why isn't Telegram popular?
@@ -98,6 +105,13 @@ I want something that you can't give me.
 noinfo
 {VALUE}
 We're sorry, we don't give out that kind of information.
+
+{QUESTION}
+Blah... blah... blah...
+{KEYS}
+resolved
+{VALUE}
+We understand that you do not have an *issue* that we can help you with. So, until you have a genuine issue with Telegram, we're marking this conversation as RESOLVED.
 
 {QUESTION}
 Irrelevant pestering conversations
