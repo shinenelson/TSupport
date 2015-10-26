@@ -345,6 +345,24 @@ Settings -> Privacy & Security -> Two-step Verification -> Enter your desired pa
 For better safety and security. Its best if you provide a recovery email too. Telegram will use this email only in the event when you've lost / forgotten your 2-step verification password.
 
 {QUESTION}
+What are Channels?
+{KEYS}
+chan
+channel
+channels
+{VALUE}
+Channels are a new way for broadcasting your messages to large audiences.
+Here are some of the features of Channels :
+* Can have unlimited number of members and multiple admins.
+* For the time being, only the creator and admins of a channel can send or remove posts from the channel.
+* Each post will have a view counter, which includes view counts of forwarded copies of the message.
+* You can view all posts of the channel from the beginning.
+
+Take a look at our official channel @telegram.
+
+For more information, read the official blog post https://telegram.org/blog/channels
+
+{QUESTION}
 When will you bring so and so feature?
 {KEYS}
 predict
