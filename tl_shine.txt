@@ -274,7 +274,7 @@ How to identify the "admin" of a group?
 {KEYS}
 admin
 {VALUE}
-Telegram groups do not have admins. However, the person who starts the group has the privilege of 'kicking' all members of the group, whereas other members of the group can 'kick' members that they have added to the group. The person who creates the group can also invite members using a link that can be found in the "Add Member" list.
+Telegram groups do not have admins. However, the person who creates the group has the privilege of 'kicking' all members of the group, whereas other members of the group can 'kick' members that they have added to the group. The person who creates the group can also generate a public invite link that can be used by anyone to join the group.
 
 All other features (modifying the group name / picture) is common to all members of the group.
 
