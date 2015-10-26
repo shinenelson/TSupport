@@ -363,6 +363,21 @@ Take a look at our official channel @telegram.
 For more information, read the official blog post https://telegram.org/blog/channels
 
 {QUESTION}
+How do I unlock Telegram with my Fingerprint?
+{KEYS}
+fp
+finger
+fingerprint
+{VALUE}
+You can use your fingerprint to lock / unlock Telegram.
+
+Telegram Settings > Privacy and Security > Unlock with Fingerprint.
+
+Keep in mind that the fingerprint lock / unlock is a feature available only for devices running Android 6.0 Marshmallow.
+
+PS : Although some devices had a fingerprint sensor in the past, they do not make use of the same Android function. Your handset manufacturer may (or may not) decide to implement this function when updating your device to Android 6.0 (M).
+
+{QUESTION}
 When will you bring so and so feature?
 {KEYS}
 predict
