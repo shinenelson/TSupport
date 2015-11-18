@@ -299,6 +299,17 @@ No. Telegram does not support voice / video calls as of yet. But you can send re
 We cannot predict if this would land as a feature of Telegram in the future. Telegram has a more streamlined vision to provide a free, privacy-oriented platform for communicating with loved ones. We do not wish to bloat this vision with unnecessary features at the moment.
 
 {QUESTION}
+I don't see my phone contacts in Telegram
+{KEYS}
+xi
+xia
+xiaomi
+{VALUE}
+Looks like you're using a Xiaomi device.
+Xiaomi implements app permissions a little different than other popular manufacturers. You will have to explicitly provide Telegram, permission to read your contacts.
+In order to do this switch the toggle on Contacts at Android Settings > App Settings > Telegram > Permissions
+
+{QUESTION}
 How can I hide my contact number?
 {KEYS}
 hidecontact
