@@ -332,6 +332,15 @@ We're sorry to see you leave. Please do leave us some feedback, if you'd like.
 By the way, may we ask why you are leaving? Missing a feature? Any other troubles?
 
 {QUESTION}
+Why is secret chat not available for Telegram Desktop and Telegram Web?
+{KEYS}
+scweb
+{VALUE}
+Telegram Desktop is a multi-platform Telegram app which supports Windows, Linux, and Mac OS X. This multi-platform app does not support local storage and offline messaging though, which are requirements for Secret Chats.
+
+Telegram Web has similar limitations, which is why Telegram Desktop and Telegram Web both do not support Secret Chats.
+
+{QUESTION}
 What is this 2-step verification?
 {KEYS}
 2sv
