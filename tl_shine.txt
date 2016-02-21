@@ -398,6 +398,27 @@ Keep in mind that the fingerprint lock / unlock is a feature available only for 
 PS : Although some devices had a fingerprint sensor in the past, they do not make use of the same Android function. Your handset manufacturer may (or may not) decide to implement this function when updating your device to Android 6.0 (M).
 
 {QUESTION}
+Why are messages on Telegram Desktop aligned on the same left side?
+{KEYS}
+tda
+tdesktop
+align
+{VALUE}
+This is a new feature in Telegram Desktop where the messages in larger windows are left aligned. This was implemented because on larger screens, the left and right aligned messages would be too far apart, making the chat unreadable. 
+
+Currently, smaller window sizes will still use the left and right aligned layout instead, while larger window sizes will use the left aligned only layout.
+
+{QUESTION}
+I don't like Telegram Destop aliging messages to the left side. Bring it back.
+{KEYS}
+tdb
+alignrevert
+{VALUES}
+Thanks for your feedback. We're sorry to hear you don't like this new feature, but could you give it a chance for some time and see if it feels better when you get more used to it?
+
+Telegram evolves quickly, new features are added every month and we experiment a lot. We can't promise you a particular app layout — but we can say for sure we want it to be perfect, too.
+
+{QUESTION}
 When will you bring so and so feature?
 {KEYS}
 predict
